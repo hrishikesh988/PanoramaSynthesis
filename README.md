@@ -1,5 +1,5 @@
 # PanoramaSynthesis
-CS 510 Introduction To Visual Computing
+# CS 510 Introduction To Visual Computing Project #2
 
 How to run this project:
 
